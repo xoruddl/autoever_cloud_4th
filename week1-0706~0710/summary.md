@@ -1,0 +1,1 @@
+python + mariaDB + mongo DB
